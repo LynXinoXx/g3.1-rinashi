@@ -94,7 +94,7 @@ export default function Home() {
               <div>
                 <h3 className="text-2xl font-bold text-white mb-4">No Drilling Allowed. Ever.</h3>
                 <p className="text-xl text-zinc-400 leading-relaxed">
-                  You spend $50k+ restoring your car to original spec. The idea of taking a drill to a numbers-matching pristine center console is unthinkable. <span className="text-white italic">&quot;My wife wants cup holders... But I am NOT going to drill holes through my stock center console.&quot;</span>
+                  You spend a fortune restoring your car to original spec. The idea of taking a drill to a numbers-matching pristine center console is unthinkable. <span className="text-white italic">&quot;My wife wants cup holders... But I am NOT going to drill holes through my stock center console.&quot;</span>
                 </p>
               </div>
             </div>
@@ -180,11 +180,11 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Pricing & Value */}
+      {/* Value */}
       <section className="py-32">
         <div className="max-w-3xl mx-auto px-6 text-center">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-8">
-            The $59.99 Sweet Spot.
+            Premium Quality. Fair Price.
           </h2>
           <p className="text-xl text-zinc-400 leading-relaxed mb-12 text-left">
             The market is broken. You can buy a $15 plastic holder from Amazon that will snap off in the sun and spill your drink. Or you can spend $250 on a custom console that feels overpriced for what it is.
@@ -200,11 +200,6 @@ export default function Home() {
             <div className="relative z-10 text-left">
               <h3 className="text-3xl font-bold text-white mb-2">Universal No-Drill Cup Holder</h3>
               <p className="text-zinc-400 text-lg mb-8">Built in North America. Built for Enthusiasts.</p>
-              
-              <div className="text-5xl font-bold text-white mb-8 flex items-end gap-4">
-                $59.99
-                <span className="text-xl text-zinc-500 line-through pb-1">$82.00</span>
-              </div>
 
               <ul className="space-y-4 mb-10">
                 <li className="flex items-center gap-3 text-zinc-300">
